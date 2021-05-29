@@ -6,13 +6,13 @@
 <br>
 
 ### CONCEPT<br>
-####Generally, gas flows from high pressure region to low pressure region. Hence in this setup the gas moves from storage chamber (high pressure region) to the converging part of the nozzle (low pressure region). 
-####Chamber pressure is denoted by the symbol Pc. CD nozzle is basically a convergent duct followed by a divergent duct. 
-####There is a minimum cross-sectional area between the convergent and divergent portions which is known as throat. 
-####Gas flows from the chamber reaches converging portion of the nozzle, and the throat, then exit through the diverging portion as a jet. 
+#### Generally, gas flows from high pressure region to low pressure region. Hence in this setup the gas moves from storage chamber (high pressure region) to the converging part of the nozzle (low pressure region). 
+#### Chamber pressure is denoted by the symbol Pc. CD nozzle is basically a convergent duct followed by a divergent duct. 
+#### There is a minimum cross-sectional area between the convergent and divergent portions which is known as throat. 
+#### Gas flows from the chamber reaches converging portion of the nozzle, and the throat, then exit through the diverging portion as a jet. 
 #### Ambient pressure is often referred as back pressure and given the symbol Pb. 
-####Based on the ambient (or) back pressure conditions, one can expect the nozzle to exhibit the following flow patterns: Subsonic flow, choked flow, Shock in diverging section, Shock at exit section, Overexpansion, Optimum expansion, Under expansion.
-####The typical Pressure variation on the CD nozzle is shown in Figure 1.
+#### Based on the ambient (or) back pressure conditions, one can expect the nozzle to exhibit the following flow patterns: Subsonic flow, choked flow, Shock in diverging section, Shock at exit section, Overexpansion, Optimum expansion, Under expansion.
+#### The typical Pressure variation on the CD nozzle is shown in Figure 1.
 <br>
 <img src="images/Image3.png"/><br>
 <i>Figure 1 Pressure distribution along a CD nozzle for varying inlet pressure.</i><br>
